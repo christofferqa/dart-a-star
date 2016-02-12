@@ -8,5 +8,3 @@ dev_dependencies:
   browser: any
   benchmark_harness: any
   unittest: any
-  runtime:
-    path: ../../../web_runtime
